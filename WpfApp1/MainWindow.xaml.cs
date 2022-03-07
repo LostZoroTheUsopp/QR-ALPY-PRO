@@ -31,7 +31,7 @@ namespace WpfApp1
         private void btngergel_Click(object sender, RoutedEventArgs e)
         {
             string zadanyText = textboxinput.Text;
-
+            //změnaok69
             QRCodeGenerator qRCodeGenerator = new QRCodeGenerator();
 
             QRCodeData dataQRkodu = qRCodeGenerator.CreateQrCode(zadanyText, QRCodeGenerator.ECCLevel.M);

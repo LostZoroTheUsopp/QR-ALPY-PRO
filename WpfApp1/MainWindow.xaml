@@ -11,6 +11,6 @@
 " Content="generuj" HorizontalAlignment="Center" Margin="0,342,0,0" VerticalAlignment="Top" Width="300" Height="50" Background="#FF1D86E8" Foreground="White" FontSize="26" FontFamily="Comic Sans MS" BorderBrush="Black" Click="btngergel_Click"/>
         <TextBox x:Name="textboxinput" HorizontalAlignment="Center" Margin="0,267,0,0" TextWrapping="Wrap" Text="zadej text" VerticalAlignment="Top" Width="300" Height="70" FontSize="26" FontFamily="Papyrus"/>
         <Image x:Name="obrazek" HorizontalAlignment="Left" Height="218" Margin="250,40,0,0" VerticalAlignment="Top" Width="285"/>
-
+    
     </Grid>
 </Window>
